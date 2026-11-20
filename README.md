@@ -20,7 +20,7 @@ Computer Science Student • Frontend & Web Development • Building Real Projec
 
 <img src="https://komarev.com/ghpvc/?username=Faxad-dev&label=PROFILE%20VIEWS&color=086C91&style=flat-square" alt="Profile views" /> <img src="https://img.shields.io/github/followers/Faxad-dev?label=FOLLOWERS&style=flat-square&color=159C77" alt="Followers" /></div>
 
-<h4 style="font-family:'Franklin Gothic Small', 'Arial Narrow', Arial, sans-serif;" font-size="14px">I'm Fahad Akhtar, a BS Computer Science student at NFC Institute of Engineering and Technology, Multan, interested in frontend engineering, responsive user experiences, and useful real-world software with the help of AI agents and tools to enhance quality.<br><br>
+<h4 style="font-family:'Franklin Gothic Small', 'Arial Narrow', Arial, sans-serif;" font-size="14px">I'm Fahad Akhtar, a BS Computer Science student at NFC Institute of Engineering and Technology, Multan, interested in frontend engineering, responsive user experiences,AI/ML and useful real-world software with the help of AI agents and tools to enhance quality.<br><br>
 I build and experiment with web apps—from Clinic Token, a healthcare appointment and live-queue interface, to Face Mesh, a real-time browser computer-vision dashboard, and German Learner, an interactive language-learning application and many others.
 
 
